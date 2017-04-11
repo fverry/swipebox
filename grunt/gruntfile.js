@@ -54,7 +54,6 @@ module.exports = function(grunt) {
 				},
 
 				files:{
-					'../demo/style.css': '../demo/scss/style.scss',
 				}
 			}
 
